@@ -1,6 +1,6 @@
 # wordpress_iist
 ~~~html
-register_custom_post
+register_custom_post register_post_type
 index.php file er kaj eta 
 
  <div class="services" id="blog">
