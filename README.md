@@ -1,5 +1,5 @@
 # wordpress_iist
-~~
+~~~html
 register_custom_post
 index.php file er kaj eta 
 
@@ -21,4 +21,4 @@ index.php file er kaj eta
             </div>
             <?php endwhile; ?>
         </div>
-~~
+~~~
